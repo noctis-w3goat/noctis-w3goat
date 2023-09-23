@@ -21,7 +21,7 @@ Our skills include:
 
 - Vyper - for mission critical contracts, we use Vyper for additional security and code transparency.
 
-- Ethers.js - our frontend stack for interacting with the blockchain. We are proficient with both the core API and abstractions like ethers.js for development convenience.
+- viem.sh - our frontend stack for interacting with the blockchain. We are proficient with both the core API and abstractions like ethers.js for development convenience.
 
 - React, Next.js - used for building user interfaces of decentralized applications.
 
