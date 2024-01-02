@@ -1,4 +1,3 @@
-# Oʀɪɢᴀᴍɪ Viem
 <br clear="both">
 
 <div align="center">
